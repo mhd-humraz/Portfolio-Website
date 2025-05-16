@@ -90,8 +90,9 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                BCA student with a strong passion for technology, digital design,
+                and event management. With experience in leading college-level initiatives and running a creative brand,
+                I focus on delivering impactful solutions through organized execution and thoughtful design..
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -131,8 +132,9 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+               I am passionate about combining creativity and technology to craft meaningful digital experiences.
+                With a background in design, event coordination, and tech projects,
+                I strive to bring innovation, clarity, and purpose to every project I undertake.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
